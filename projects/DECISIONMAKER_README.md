@@ -149,37 +149,6 @@ This ensures:
 
 ---
 
-## 🚀 Running Locally
-
-### 1️⃣ Clone the Repository
-
-```bash
-git clone <your-repo-url>
-cd easy-decision-maker
-```
-
-### 2️⃣ Install Dependencies
-
-```bash
-npm install
-```
-
-### 3️⃣ Configure Environment Variables
-
-Create a `.env` file:
-
-```env
-GEMINI_API_KEY=your_api_key_here
-```
-
-### 4️⃣ Start Development Server
-
-```bash
-npm run dev
-```
-
----
-
 ## 📈 Future Enhancements
 
 * User accounts with personal history
@@ -204,10 +173,3 @@ npm run dev
 
 👉 [https://the-tie-breaker-707002892310.us-west1.run.app/](https://the-tie-breaker-707002892310.us-west1.run.app/)
 
----
-
-If you'd like, I can also generate:
-
-* A **recruiter-focused README (short, punchy, impact-driven)**
-* A **technical deep-dive version** for engineers
-* Or a **portfolio case study format** optimized for product roles
